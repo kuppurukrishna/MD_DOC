@@ -1,5 +1,5 @@
 
-# HORIZONTAL PARALLAX (2.0.3)
+# HORIZONTAL PARALLAX  (2.0.3)
 
 ## 1.  Overview
 
