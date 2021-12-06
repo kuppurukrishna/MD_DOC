@@ -2,7 +2,9 @@
 
 ## 1.  OVERVIEW
 
-A. The Range Slider component consists of a slider with a minimum value, maximum value, and intervals. A user can move the handles of the slider to select a range between the minimum and maximum values. Use case
+A. The Range Slider component consists of a slider with a minimum value, maximum value, and intervals. A user can move the handles of the slider to select a range between the minimum and maximum values.
+
+### A. Use case
 
 - If you want to show flights between \$250 and \$275 specifically when the cost of flights ranging from \$150 to \$500, then, this component will fit in and serve your use case seamlessly.
 
@@ -49,7 +51,7 @@ ii. Tablets
 
  You can import the Forge components only into the apps that are of the Reference Architecture type.
 
-**To import the TimeLine component, do the following:**
+**To import the RangeSlider component, do the following:**
 
 1. Open your app project in Volt MX Iris.
 
@@ -78,14 +80,14 @@ and modules are added to your project.
 component to a form. For more information, refer [**Add a Component to a
 Form**](https://opensource.hcltechsw.com/volt-mx-docs/docs/documentation/Iris/iris_user_guide/Content/C_UsingComponents.html#add-a-component-to-a-form)**.**
 
-## D. A. Building and previewing the app
+## D. Building and previewing the app
 
 After performing all the above steps, you can build your app and run it on your
 device. For more information, you can refer to the [Building and Viewing an
 Application](https://opensource.hcltechsw.com/volt-mx-docs/docs/documentation/Iris/iris_user_guide/Content/Cloud_Build_in_VoltMX_Iris.html#cloud)
 section of the **Volt MX Iris** User Guide.
 
-You can then run your app to see the Timeline work in real time.
+You can then run your app to see the RangeSlider work in real time.
 
 ## 3. References
 
@@ -148,7 +150,7 @@ your requirement. For more information, see Setting Properties.
 	This.view.Slider.initialize();
 
 	}
- **Save** the file.
+2. **Save** the file.
 
 ### **B. Properties**
 
