@@ -227,11 +227,7 @@ on the **Component** tab or by writing a JavaScript.
 | **Example:**     | this.view.componentID.sknSelectedRange = "SelectedRangeSkin";   |
 | **Widget Type:** | Label                                                           |
 
-## 
-
-## 
-
-## 
+ 
 
 ### C. Events
 
