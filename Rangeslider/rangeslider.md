@@ -148,8 +148,7 @@ your requirement. For more information, see Setting Properties.
 	This.view.Slider.initialize();
 
 	}
-
-    **Save** the file.
+ **Save** the file.
 
 ### **B. Properties**
 
@@ -283,7 +282,7 @@ The following APIs pertain to the Range Slider component
 | **Description:**  | Fetches the minimum and maximum values of the current selectedrange, that is, the values that are indicated by the left handle and the right handle.                                                                                                         |
 | **Syntax:**       | getSelectedValues()                                                                                                                                                                                                                                          |
 | **Parameters:**   | None                                                                                                                                                                                                                                                         |
-| **Return Value:** | SelectedValues [Array]: <br /> Contains the minimum and maximum values of the selected range.                                                                                                                                                                        |                                                                                                                                                     
+| **Return Value:** | SelectedValues [Array]:Contains the minimum and maximum values of the selected range.    |                                                                                                                                                                                                  
 | **Example:**      |  var selesctedValues=this.view.componentID.getSelectedValues(); <br />var min = selectedValues[0]; <br /><br /> //Minimum value of the selected range (left handle) <br /> <br /> var max = selectedValues[1]; <br /> //Maximum value of the selected range (right handle)     |                                                                                                  
 
 **2. OpenresetRangeSlider**
