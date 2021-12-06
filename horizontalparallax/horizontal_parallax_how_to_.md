@@ -327,7 +327,7 @@ provides information about how to set the properties by writing a JavaScript.
 | **Remarks:**     | The default value of the property is true.               |
 | **Example:**     | this.view.componentID.isBgTwoVisible = true              |
 
-7.**Foreground Two**
+9.**Foreground Two**
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
@@ -338,7 +338,7 @@ provides information about how to set the properties by writing a JavaScript.
 | **Remarks:**     | The default value of the property is true.              |
 | **Example:**     | this.view.componentID.isFgTwoVisible = true;            |
 
-6.**Background Three**
+10.**Background Three**
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
@@ -349,7 +349,7 @@ provides information about how to set the properties by writing a JavaScript.
 | **Remarks:**     | The default value of the property is true.                 |
 | **Example:**     | this.view.componentID.isBgThreeVisible = true              |
 
-7.**Foreground Three**
+11.**Foreground Three**
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
